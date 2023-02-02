@@ -4,4 +4,4 @@ This is the second sentence. With edits
 
 This is the third sentence. with  edits
 
-Fourth
+This is the fourth sentence.
